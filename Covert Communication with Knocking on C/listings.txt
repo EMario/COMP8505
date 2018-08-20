@@ -1,0 +1,20 @@
+host
+	config.txt
+	covert.cpp
+	headers.cpp
+	headers.h
+	Makefile
+	recv_packet.cpp
+	send_packet.cpp
+victim
+	config.txt
+	covert.cpp
+	headers.cpp
+	headers.h
+	Makefile
+	exfilt.cpp
+	send_packet.cpp
+Assignment5_MarioEnriquez.pdf
+README.txt
+Technical_Report.pdf
+Executables(Older version with executables, dont have many comments)

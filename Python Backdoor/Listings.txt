@@ -1,0 +1,21 @@
+Document----------------------------------------About
+captures_attacker-------------------------------Folder containing the attacker pcap captures
+	fail-success.pcapng---------------------Shows attempts to connect with bad values
+	tcp_test.pcapng-------------------------Captures of TCP tests
+	udp_test.pcapng-------------------------Captures of UDP tests
+captures_victim---------------------------------Folder containing the victim pcap captures
+	fail-success.pcapng---------------------Shows attempts to connect with bad values
+	tcp_test.pcapng-------------------------Captures of TCP tests
+	udp_test.pcapng-------------------------Captures of UDP tests
+RAW---------------------------------------------Folder containing uncommented programs, just in case
+	command.py------------------------------Attacker program
+	cyphermod.py----------------------------Contains encoding and decoding functions
+	maskname.py-----------------------------Function to mask process name
+	sniffer.py------------------------------backdoor
+Assignment3_MarioEnriquez.docx------------------Design, test cases and pseudocode
+command.py--------------------------------------Attacker program
+cyphermod.py------------------------------------Contains encoding and decoding functions
+Listings.txt------------------------------------This document
+maskname.py-------------------------------------Function to mask process name
+README.txt--------------------------------------Readme
+sniffer.py--------------------------------------backdoor

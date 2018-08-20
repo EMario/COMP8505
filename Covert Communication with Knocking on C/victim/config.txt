@@ -1,0 +1,12 @@
+protocol tcp
+src_host 192.168.0.14
+dst_host 192.168.0.15
+ip_id 1080
+password 10
+exf_dir /root/Documents/test/
+dst_port 8505
+src_port 8506
+knock_1 7005
+knock_2 8005
+knock_3 323
+tcp_port 9999

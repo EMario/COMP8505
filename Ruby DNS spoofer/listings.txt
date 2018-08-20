@@ -1,0 +1,26 @@
+To use:
+
+USAGE: ruby dns-spoofv3.rb [router_mac] [router_ip] [victim_mac] [victim_ip] [redirect_ip]
+
+Listings
+
+Name..................................................Description
+
+Test 1------------------------------------------------Folder for test 1 captures
+	capture.pcapng--------------------------------Wireshark capture
+Test 2------------------------------------------------Folder for test 2 captures
+	capture.pcapng--------------------------------Wireshark capture
+Test 3------------------------------------------------Folder for test 3 captures
+	captures 3.pcapng-----------------------------Wireshark capture
+	captures 3_2.pcapng---------------------------Wireshark capture
+Test 4------------------------------------------------Folder for test 4 captures
+	captures 4.pcapng-----------------------------Wireshark capture
+	captures 4_2.pcapng---------------------------Wireshark capture
+Test 5------------------------------------------------Folder for test 5 captures
+	captures 5.pcapng-----------------------------Wireshark capture
+	captures 5_2.pcapng---------------------------Wireshark capture
+	captures 5_3.pcapng---------------------------Wireshark capture
+Assignment4_MarioEnriquez.docx------------------------Report
+dns-spoofv3.rb----------------------------------------Raw Code
+dns-spoofv3ip.rb--------------------------------------Code with Ip tables enabled
+listings.txt------------------------------------------This document
